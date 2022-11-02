@@ -1,5 +1,5 @@
 ## Hola a todos! 🤓
-I'm Marco Anotnio Aycachi: Computer technician.
+Me llamo Marco Antonio Aycachi: Técnico en Computación e Informática.
 
 Aprender y conocer bien la estructura, es lo mejor para el avance de un proyecto y obtener mejores conocimiento.
 
