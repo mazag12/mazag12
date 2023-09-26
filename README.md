@@ -41,7 +41,7 @@ Aprender y conocer bien la estructura, es lo mejor para el avance de un proyecto
  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ## Social Networks
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/marco-antonio-aycachi-galvan-0a9bb213b/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-antonio-aycachi-galvan-0a9bb213b)
 
 - 📫 Cómo contactar conmigo: marco_aycachi@outlook.com
 - ⚡ Me encanta los animes y series que tenga contenido con tecnología o futurista.
