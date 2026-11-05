@@ -1,4 +1,4 @@
-## Hola a todos! 🤓
+## Hola a todos! 🤓 --
 Me llamo Marco Antonio: Técnico en Computación e Informática.
 
 Aprender y conocer bien la estructura, es lo mejor para el avance de un proyecto y obtener mejores conocimiento.
